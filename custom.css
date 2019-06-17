@@ -1,0 +1,44 @@
+.carousel-item{
+	height: 100vh;
+	min-height: 300px;
+	background: no-repeat center center scroll;
+	background-size: cover;
+}
+.carousel-caption h5{
+	font-size: 45px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	margin-top: 25px;
+}
+.navbar-light .navbar-brand{
+	color: #fff;
+	font-size: 25px;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+.img{
+	width: 100px;
+	height: 100px;
+	justify-content: center;
+	align-items: center;
+}
+.row{
+	height: 40vh;
+}
+h4{
+	border: black 1px solid;
+	margin: auto;
+	margin-bottom: 20px;
+	padding: 7px;
+	text-align: center;
+	align-items: center;
+}
+.p1{
+	text-align: justify;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.b4{
+	background-color: #23B44A;
+}
